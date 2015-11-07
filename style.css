@@ -1,0 +1,18 @@
+.margin{
+	margin-right:25px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+.row{
+	width:100%;
+	display:flex;
+}
+.col-6{
+	width :50%;
+}
+.col-12{
+	width:100%;
+}
+*{
+	border:1px solid #f3f3f3;
+}
